@@ -1,0 +1,12 @@
+.card-container{
+    margin: 20px;
+    background-color: aqua;
+}
+.main-container{
+    display: block;
+    margin: auto;
+}
+.button-container{
+    display: flex;
+    justify-content: end;
+}

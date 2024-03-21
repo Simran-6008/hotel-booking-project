@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "image": "https://media.istockphoto.com/id/1302442919/photo/luxury-beach-villa-at-night.jpg?s=612x612&w=0&k=20&c=oP0fE8SOcrejuCnbBmFAPB8pH47gbCM6m_dvtLihisI=   ",
+      "Hotelname": "Cottage Mountain face by Snow City Cottage",
+      "Address": "Manali",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 3,
+      "Availability": 0,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/1300757575/photo/side-view-of-hotel-amenities-on-the-bed.jpg?s=612x612&w=0&k=20&c=NQK76wtCnGhNcvveUfs8FE4JGl9-A1zuqCsSS8vUmgI=",
+        "https://media.istockphoto.com/id/1469126748/photo/close-up-image-of-open-hotel-cupboard-displaying-small-integrated-refrigerator-beside.jpg?s=612x612&w=0&k=20&c=EQ9071B88lBnLQjD0xvBFnxVKgWKuSjWdPLJmxhOEEE=",
+        "https://media.istockphoto.com/id/172423682/photo/holiday-resort.jpg?s=612x612&w=0&k=20&c=gfRhr31AcOMwbwveD2b9jydeC0FpIY429X9BKtu_t9o=",
+        "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e",
+        "https://media.istockphoto.com/id/1051207584/photo/beautiful-golden-hour-and-himalayan-ranges-seen-from-hotel-room.jpg?s=612x612&w=0&k=20&c=2JhnZ2UhQTVEQx_WUzZpESbRJNjGU5GeuvayVxh63PU=",
+        "https://media.istockphoto.com/id/164666590/photo/roof-terrace.jpg?s=612x612&w=0&k=20&c=WKF9eZ_Tj2G5lFqxpuYsEZ4b5d7jS7OUVQ3zyXFeCtw="
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://media.istockphoto.com/id/1154996531/photo/mountain-life.jpg?s=612x612&w=0&k=20&c=vPOBCHK18f5OVLdlL-TAvgKB0VLX7r7cyUeXS8Akibs=",
+      "Hotelname": "Montana Blues Resort by Snow City",
+      "Address": "Manali",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 4,
+      "Availability": 7,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/185083188/photo/luxury-shangri-la-hotel-room.jpg?s=612x612&w=0&k=20&c=5O6xdH0CYU008xoBbySJ81pKaNlvaRki5CFcM2orcBQ=",
+        "https://media.istockphoto.com/id/1453360644/photo/maldives-hotel-beach-villa-with-swimming-pool-on-tropical-island-resort.jpg?s=612x612&w=0&k=20&c=sJE-qLIjNRvuegL9DBSFXSEpKeyO2-xKGFyXkA6IgHg=",
+        "https://media.istockphoto.com/id/1441192029/photo/click-of-variety-of-side-dishes-and-food-with-sliced-roti-and-onions-kept-on-the-table-for.jpg?s=612x612&w=0&k=20&c=DqqKiCLEcTjmfJj97G5bo0Bhvgp_1ok0Ertf0shxaRg="
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://media.istockphoto.com/id/903417402/photo/luxury-construction-hotel-with-swimming-pool-at-sunset.jpg?s=612x612&w=0&k=20&c=NyPC_c-wE3W_CImA4t57FpyGy6f428CYROd80jxVC4A=",
+      "Hotelname": "Vashisht valley hotel",
+      "Address": "Hotel in Manali",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 3,
+      "Availability": 3,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/520136175/photo/hotel-bedroom-in-india.jpg?s=612x612&w=0&k=20&c=7TsiIPEPFZIlCGeJyboyoIcSBxxvmLgjH9FWSK655cA=",
+        "https://media.istockphoto.com/id/1339918907/photo/modern-contemporary-loft-bathroom-with-outdoor-shower-3d-render.jpg?s=612x612&w=0&k=20&c=ATvmXVKPcp5PSYvisgMDg61P8WX7sn1XKafhgnoI96s=",
+        "https://media.istockphoto.com/id/938158500/photo/breakfast-table.jpg?s=612x612&w=0&k=20&c=Y8xB6hfe4dSPNyNrPgzP7slHbKhWdEzG7YTk2WXu4lQ="
+      ]
+    },
+    {
+      "id": "4",
+      "image": "https://media.istockphoto.com/id/637128818/photo/luxury-residence-in-india.jpg?s=612x612&w=0&k=20&c=NhUZvxpMRUxBQDbjrnMDU3mnB4-SC-dJMODPda4KTD4=",
+      "Hotelname": "The Orchard Greens",
+      "Address": "Manali",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 2,
+      "Availability": 5,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/185113199/photo/shangri-la-hotel-room-in-new-delhi.jpg?s=612x612&w=0&k=20&c=DtV_QwIh2lolcCYN1cIGqpT1yH3Cw1HvwHTjSEi4Vhs=",
+        "https://media.istockphoto.com/id/1084656062/photo/interior-of-a-hotel-bathroom.jpg?s=612x612&w=0&k=20&c=rZxxHZ_QxV4SZtNwi1izI1jKLckdS9Uz0LZc_M41_OE=",
+        "https://media.istockphoto.com/id/938158500/photo/breakfast-table.jpg?s=612x612&w=0&k=20&c=Y8xB6hfe4dSPNyNrPgzP7slHbKhWdEzG7YTk2WXu4lQ="
+      ]
+    },
+    {
+      "id": "5",
+      "image": "https://media.istockphoto.com/id/501386854/photo/tropical-modern-villa.jpg?s=612x612&w=0&k=20&c=791hJ7BkqtFRvqqu7Ke6Hourkfg3lkNy5OQWrCz76UY=",
+      "Hotelname": "Honeymoon Inn Manali",
+      "Address": "Alio Manali",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 4,
+      "Availability": 5,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/185113199/photo/shangri-la-hotel-room-in-new-delhi.jpg?s=612x612&w=0&k=20&c=DtV_QwIh2lolcCYN1cIGqpT1yH3Cw1HvwHTjSEi4Vhs=",
+        "https://media.istockphoto.com/id/174494870/photo/interior-of-green-bathroom.jpg?s=612x612&w=0&k=20&c=JHtoC_hcSkhfTKNBIBXbfFzSvXHvtJ9twDcqnD-x6Bw=",
+        "https://media.istockphoto.com/id/1443601641/photo/assorted-south-indian-food-mutton-brain-masala-chicken-tangdi-chicken-reshmi-tikka-chicken.jpg?s=612x612&w=0&k=20&c=zCa01Uqy5WFDCBb345mXzp4o2_JTIrc8NNAWST0FOfY="
+      ]
+    },
+    {
+      "id": "6",
+      "image": "https://media.istockphoto.com/id/1428674946/photo/busy-front-desk-at-hotel.jpg?s=612x612&w=0&k=20&c=6RscVaa9QRt1vAtNuxnilexQ0Xb3TNyBUBVsr0XvXiY=",
+      "Hotelname": "Hotel The Meadows Open Terrace Bonfire",
+      "Address": "Hotel in New Manali, Manali",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 4,
+      "Availability": 4,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/185113199/photo/shangri-la-hotel-room-in-new-delhi.jpg?s=612x612&w=0&k=20&c=DtV_QwIh2lolcCYN1cIGqpT1yH3Cw1HvwHTjSEi4Vhs=",
+        "https://media.istockphoto.com/id/174494870/photo/interior-of-green-bathroom.jpg?s=612x612&w=0&k=20&c=JHtoC_hcSkhfTKNBIBXbfFzSvXHvtJ9twDcqnD-x6Bw=",
+        "https://media.istockphoto.com/id/1443601641/photo/assorted-south-indian-food-mutton-brain-masala-chicken-tangdi-chicken-reshmi-tikka-chicken.jpg?s=612x612&w=0&k=20&c=zCa01Uqy5WFDCBb345mXzp4o2_JTIrc8NNAWST0FOfY="
+      ]
+    },
+    {
+      "id": "7",
+      "image": "https://media.istockphoto.com/id/1299710067/photo/double-bedroom-with-sea-view.jpg?s=612x612&w=0&k=20&c=LPNC-aqrsOsgxU8eqPcR38ACIOIjqAmh0VSKclIa2gs=",
+      "Hotelname": "Bravia Hotel Manali Inn",
+      "Address": "Assam Guwahati near Nehru chock",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 3,
+      "Availability": 8,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/185113199/photo/shangri-la-hotel-room-in-new-delhi.jpg?s=612x612&w=0&k=20&c=DtV_QwIh2lolcCYN1cIGqpT1yH3Cw1HvwHTjSEi4Vhs=",
+        "https://media.istockphoto.com/id/1454303048/photo/modern-dark-luxury-minimalist-bathroom.jpg?s=612x612&w=0&k=20&c=YSmUMMxsAhgD_W6EybLOjaswbR8d6BSDjjZjfCAGfDA=",
+        "https://media.istockphoto.com/id/1443601641/photo/assorted-south-indian-food-mutton-brain-masala-chicken-tangdi-chicken-reshmi-tikka-chicken.jpg?s=612x612&w=0&k=20&c=zCa01Uqy5WFDCBb345mXzp4o2_JTIrc8NNAWST0FOfY="
+      ]
+    },
+    {
+      "id": "8",
+      "image": "https://media.istockphoto.com/id/509553708/photo/tropical-modern-villa-exterior.jpg?s=612x612&w=0&k=20&c=rMmOmihiXHl6htuhYVzbfPdKAawYHFuNMhD32A0sWUg=",
+      "Hotelname": "Shingar Regency",
+      "Address": "Manali",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 4,
+      "Availability": 10,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/185113199/photo/shangri-la-hotel-room-in-new-delhi.jpg?s=612x612&w=0&k=20&c=DtV_QwIh2lolcCYN1cIGqpT1yH3Cw1HvwHTjSEi4Vhs=",
+        "https://media.istockphoto.com/id/1457311065/video/animation-of-modern-luxury-white-bathroom-with-garden-view-3d-render.jpg?s=640x640&k=20&c=WiVbNUEgdlxl5WNk0ycIjfOZ5vGeKJpdgTwMDYbj1-4=",
+        "https://media.istockphoto.com/id/639389404/photo/authentic-indian-food.jpg?s=612x612&w=0&k=20&c=gbfAu17L1gtHmuo5biByhfCefAtYUtGQpyxMmi9_Mus="
+      ]
+    },
+    {
+      "id": "9",
+      "image": "https://media.istockphoto.com/id/842997814/photo/viceregal-lodge-shimla.jpg?s=612x612&w=0&k=20&c=TctJrNHfYX07yLv7KTUy4ntRxpEOH-bvlQUqdtkVybI=",
+      "Hotelname": "Manali Hotel Beas River Retreat",
+      "Address": "Manali near Hadima",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 2,
+      "Availability": 8,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/654289190/photo/four-poster-bed-with-mosquito-net-in-bright-hotel-room.jpg?s=612x612&w=0&k=20&c=2MD490P17mzRq3SmovQDXNHMVjM7gtTSEpnRfnwavck=",
+        "https://media.istockphoto.com/id/1309074908/photo/luxury-bathroom-interior-with-hot-tub-and-beautiful-sea-view.jpg?s=612x612&w=0&k=20&c=yXIL9RMkdWthXsvCddeNexVxBCj16UNHBgckCTxF4PA=",
+        "https://media.istockphoto.com/id/838927480/photo/onam-sadya-on-a-banana-leaf.jpg?s=612x612&w=0&k=20&c=gwLv5UccfysMWJn2nEPXoQfczkCTBylrmenTmHonHrc="
+      ]
+    },
+    {
+      "id": "10",
+      "image": "https://media.istockphoto.com/id/1362707104/photo/wooden-luxury-tourist-hotel-at-sarahan-hill-station-of-himachal-pradesh-india.jpg?s=612x612&w=0&k=20&c=-uiutIL3Y1pFGTd9clJL19bOcjuSqwotWSwKxNhEwII=",
+      "Hotelname": "Sita Hotel & Cottage, Manali",
+      "Address": "Manali",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 1,
+      "Availability": 7,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/654289190/photo/four-poster-bed-with-mosquito-net-in-bright-hotel-room.jpg?s=612x612&w=0&k=20&c=2MD490P17mzRq3SmovQDXNHMVjM7gtTSEpnRfnwavck=",
+        "https://media.istockphoto.com/id/1309074908/photo/luxury-bathroom-interior-with-hot-tub-and-beautiful-sea-view.jpg?s=612x612&w=0&k=20&c=yXIL9RMkdWthXsvCddeNexVxBCj16UNHBgckCTxF4PA=",
+        "https://media.istockphoto.com/id/838927480/photo/onam-sadya-on-a-banana-leaf.jpg?s=612x612&w=0&k=20&c=gwLv5UccfysMWJn2nEPXoQfczkCTBylrmenTmHonHrc="
+      ]
+    },
+    {
+      "id": "11",
+      "image": "https://media.istockphoto.com/id/1471817881/photo/tree-house-in-himachal-pradesh.jpg?s=612x612&w=0&k=20&c=jIOApR-kOchp3TL9kuvYpH4KEpo7xzlYvlSH0w3kshw=",
+      "Hotelname": "Himalayan Nature Walk Resort, Manali",
+      "Address": "Rangri Manali",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 1,
+      "Availability": 9,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/654289190/photo/four-poster-bed-with-mosquito-net-in-bright-hotel-room.jpg?s=612x612&w=0&k=20&c=2MD490P17mzRq3SmovQDXNHMVjM7gtTSEpnRfnwavck=",
+        "https://media.istockphoto.com/id/1175191124/photo/clean-and-white-bathroom-with-amenities.jpg?s=612x612&w=0&k=20&c=q_Yh02aMm_OFmyMZ2jADJobgsMuZxFDlpF9AwBzk7xk=",
+        "https://media.istockphoto.com/id/1217829391/photo/indian-food-celebration-for-ramadan.jpg?s=612x612&w=0&k=20&c=28NX7-Lv3Ouwgt-C7c6-DdrtGoAr6odx8PoGKfsdn1k="
+      ]
+    },
+    {
+      "id": "12",
+      "image": "https://media.istockphoto.com/id/1354259157/photo/various-views-of-sissu-himachal-pradesh.jpg?s=612x612&w=0&k=20&c=lnyu8EymfZaQg5QDvX-DV8Z7KgTZERm9TtpJVq3hUm4=",
+      "Hotelname": "Hotel Great Hadimba Hills Manali",
+      "Address": "New Manali, Manali",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 2,
+      "Availability": 11,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/1266155645/photo/luxurious-master-bedroom-interior.jpg?s=612x612&w=0&k=20&c=bCPLLk6rFaDLz-gJT460YwG-nbMLTEJgHkdeT7OvQD0=",
+        "https://media.istockphoto.com/id/1266155645/photo/luxurious-master-bedroom-interior.jpg?s=612x612&w=0&k=20&c=bCPLLk6rFaDLz-gJT460YwG-nbMLTEJgHkdeT7OvQD0=",
+        "https://media.istockphoto.com/id/1033757406/video/top-view-of-people-and-variety-of-indian-food-served-on-a-dining-table-stock-video.jpg?s=640x640&k=20&c=TtLNhoZT6An-H3nzBlRhLRoz_6-RJgFOThqhl2Z4wxI="
+      ]
+    },
+    {
+      "id": "13",
+      "image": "https://media.istockphoto.com/id/1206488555/photo/himalaya-mountains-panoramic-landscape-india.jpg?s=612x612&w=0&k=20&c=L08IPmjyspwPG-bsHQwT5FcUF0Q-Op9SIIK03vsPq5c=",
+      "Hotelname": "Sixth Sense Hotel & Cottage, Manali",
+      "Address": "Manali",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 3,
+      "Availability": 6,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/583698440/photo/classic-bedroom.jpg?s=612x612&w=0&k=20&c=rccB7Vdc1d3nOqEVQ89mJ6cRSS_wgGLBJDl409M9fFA=",
+        "https://media.istockphoto.com/id/1266155645/photo/luxurious-master-bedroom-interior.jpg?s=612x612&w=0&k=20&c=bCPLLk6rFaDLz-gJT460YwG-nbMLTEJgHkdeT7OvQD0=",
+        "https://media.istockphoto.com/id/922783734/photo/assorted-indian-recipes-food-various.jpg?s=612x612&w=0&k=20&c=p8DepvymWfC5j7c6En2UsQ6sUM794SQMwceeBW3yQ9M="
+      ]
+    },
+    {
+      "id": "14",
+      "image": "https://media.istockphoto.com/id/1362644266/photo/tourist-resorts-with-himalaya-mountain-landscape-at-himachal-pradesh-india.jpg?s=612x612&w=0&k=20&c=M-Mv3F27hObWXRPdTsfZMU3ubM2heakuQGDkOEu9ScA=",
+      "Hotelname": "Rockland Cottage",
+      "Address": "Manali",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 4,
+      "Availability": 9,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/1438038333/video/4k-video-of-modern-elegant-bedroom-interior-design-and-decoration-3d-rendering-animation.jpg?s=640x640&k=20&c=qH32Kmfe2KU39KQUwitU11D5l5swB8c0M76MUlPiXdw=",
+        "https://media.istockphoto.com/id/1266155645/photo/luxurious-master-bedroom-interior.jpg?s=612x612&w=0&k=20&c=bCPLLk6rFaDLz-gJT460YwG-nbMLTEJgHkdeT7OvQD0=",
+        "https://media.istockphoto.com/id/187248625/photo/pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=QHrM65XqDQd3Z50r5cT2qV4nwctw6rNMM1JTlGEEVzI="
+      ]
+    },
+    {
+      "id": "15",
+      "image": "https://media.istockphoto.com/id/1362707029/photo/tourist-resort-front-entrance-at-a-hill-station-of-himachal-pradesh-india-at-sunrise.jpg?s=612x612&w=0&k=20&c=QZFkzZYMryKRMgSbq4qQHZe72Mvg1m75XDw_GZ1iQdY=",
+      "Hotelname": "The Rock Manali Centrally Heated Property",
+      "Address": "Vashisht Manali",
+      "Bonus": "* Free cancellation",
+      "BonusTwo": "* No prepayment needed – pay at the property",
+      "Price": "1,500",
+      "Rating": 3,
+      "Availability": 5,
+      "roomFeatures": [
+        "https://media.istockphoto.com/id/1018959096/photo/breakfast-table-hotel-room.jpg?s=612x612&w=0&k=20&c=xuZRdXTWkP05uIYZtpKlwBogEv3jCmKvzhnu4RDOsFE=",
+        "https://media.istockphoto.com/id/1266155645/photo/luxurious-master-bedroom-interior.jpg?s=612x612&w=0&k=20&c=bCPLLk6rFaDLz-gJT460YwG-nbMLTEJgHkdeT7OvQD0=",
+        "https://media.istockphoto.com/id/187248625/photo/pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=QHrM65XqDQd3Z50r5cT2qV4nwctw6rNMM1JTlGEEVzI="
+      ]
+    }
+  ]
+}
